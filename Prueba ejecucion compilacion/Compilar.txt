@@ -1,0 +1,5 @@
+pyinstaller --distpath="C:\Users\Asus\Desktop\Proyectos\Resolucion-imagenes\dist" -w --windowed --uac-admin --icon "C:\Users\Asus\Desktop\Proyectos\Resolucion-imagenes\icon.ico" "C:\Users\Asus\Desktop\Proyectos\Resolucion-imagenes\Main.py"
+
+v1.2
+
+pyinstaller --distpath="C:\Users\Asus\Desktop\Proyectos\Resolucion-imagenes\dist" --onefile --icon "C:\Users\Asus\Desktop\Proyectos\Resolucion-imagenes\icon.ico" "C:\Users\Asus\Desktop\Proyectos\Resolucion-imagenes\Redimensionar.py"
